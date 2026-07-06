@@ -1,0 +1,1 @@
+Prezentacija traje 5 minuta.
