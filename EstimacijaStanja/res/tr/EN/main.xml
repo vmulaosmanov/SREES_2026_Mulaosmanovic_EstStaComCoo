@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<DevRes>
+	<Translations>
+		<Res id="appTitle" tr="SE3Bus - state estimation (3-bus system, complex coordinates)"/>
+	</Translations>
+</DevRes>
